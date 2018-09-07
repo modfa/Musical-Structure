@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minHeight">88dp</dimen>
+    <dimen name="minHeight_main">96dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="sizteen_dp">16dp</dimen>
+    <dimen name="two_four_sp">24sp</dimen>
+    <dimen name="eight_eight_dp">88dp</dimen>
+</resources>
